@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxemooju.github.io/IrF/sitemap_index.txt
+Sitemap: https://uxemooju.github.io/KHg/sitemap_index.txt
+Sitemap: https://uxemooju.github.io/Quk/sitemap_index.txt
+Sitemap: https://uxemooju.github.io/fWj/sitemap_index.txt
